@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @omkar7deshmukh
+- 👋 Hi, I’m Omkar Deshmukh
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on Data Science, Python
